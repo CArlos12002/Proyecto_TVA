@@ -1,8 +1,8 @@
 # Evaluación Práctica - TV Azteca
-
+##Carlos Anaya Ruiz
 ## Descripción del Proyecto
 
-Este proyecto ha sido desarrollado como parte de la evaluación práctica para ingresar a trabajar en TV Azteca. El objetivo principal es demostrar habilidades técnicas en programación, manejo de bases de datos y buenas prácticas de desarrollo. 
+Este proyecto ha sido desarrollado como parte de mi evaluación práctica para ingresar a trabajar en TV Azteca para el rol de desarrollador. El objetivo principal es demostrar habilidades técnicas en programación, manejo de bases de datos y buenas prácticas de desarrollo. 
 
 El proyecto consiste en una aplicación que permite gestionar y visualizar las compras realizadas por los clientes. Incluye funcionalidades para filtrar las compras por nombre, clave de cliente y estatus, así como para agregar nuevas ventas.
 
@@ -26,6 +26,12 @@ El proyecto consiste en una aplicación que permite gestionar y visualizar las c
 - **Oracle** y **SQL Developer** para la gestión de la base de datos.
 - **Visual Studio Community** para el desarrollo de la aplicación.
 
+##Lenguajes de programación
+
+- **HTML**
+- **CS**
+- **JavaScript**
+
 ## Instalación y Ejecución
 
 1. Clonar el repositorio desde GitHub.
@@ -35,9 +41,4 @@ El proyecto consiste en una aplicación que permite gestionar y visualizar las c
 
 ## Contacto
 
-Para cualquier duda o comentario, por favor contactar a:
-- **Correo:** obeltran@tvazteca.com.mx
-
----
-
-Este proyecto refleja mi capacidad para desarrollar aplicaciones robustas y funcionales, cumpliendo con los requisitos establecidos y siguiendo buenas prácticas de desarrollo.
+Correo: carlosaremployment@hotmail.com
