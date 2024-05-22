@@ -1,0 +1,48 @@
+### Instructivo para Ejecutar el Proyecto TVA_CAR
+
+Este instructivo te guiará a través de los pasos necesarios para configurar y ejecutar el proyecto TVA_CAR en tu máquina local. Asegúrate de seguir cada paso cuidadosamente.
+
+#### Prerrequisitos
+
+1. **Instalar .NET 6.0 SDK**: Descarga e instala .NET 6.0 SDK desde el sitio oficial de Microsoft.
+2. **Instalar Visual Studio 2022**: Descarga e instala Visual Studio 2022 desde el sitio oficial. Asegúrate de seleccionar la carga de trabajo de desarrollo de ASP.NET y desarrollo web.
+3. **Instalar Oracle Database**: Descarga e instala Oracle Database desde el sitio oficial de Oracle.
+4. **Instalar Oracle SQL Developer**: Descarga e instala Oracle SQL Developer desde el sitio oficial de Oracle.
+5. **Instalar Oracle Managed Data Access**: Asegúrate de tener el paquete Oracle Managed Data Access disponible en tu entorno de desarrollo.
+
+#### Configuración de la Base de Datos
+
+1. **Abrir Oracle SQL Developer** y conectarte a tu instancia de Oracle Database con un usuario que tenga permisos para crear usuarios y tablas.
+2. **Crear el Esquema y las Tablas**:
+   - Abre una nueva ventana de SQL Worksheet en Oracle SQL Developer.
+   - Copia y ejecuta el script para crear el esquema y las tablas necesarias (Schema.sql).
+3. **Poblar las Tablas con Datos de Ejemplo**:
+   - Abre una nueva ventana de SQL Worksheet en Oracle SQL Developer.
+   - Copia y ejecuta el script para poblar las tablas con datos de ejemplo (Data.sql).
+
+#### Configuración del Proyecto .NET
+
+1. **Clonar el Repositorio del Proyecto**:
+   - Abre una terminal o Git Bash.
+   - Clona el repositorio del proyecto TVA_CAR desde GitHub y navega hasta la carpeta del proyecto.
+2. **Configurar la Cadena de Conexión**:
+   - Abre el archivo `appsettings.json` en Visual Studio.
+   - Asegúrate de que la cadena de conexión está configurada correctamente con los detalles de tu base de datos Oracle.
+3. **Restaurar las Dependencias del Proyecto**:
+   - En Visual Studio, abre el proyecto.
+   - En la Consola del Administrador de Paquetes, ejecuta el comando para restaurar todas las dependencias del proyecto.
+
+#### Ejecutar el Proyecto
+
+1. **Compilar y Ejecutar el Proyecto**:
+   - En Visual Studio, selecciona la opción para iniciar el proyecto sin depuración o con depuración según prefieras.
+   - La aplicación debería compilarse y abrirse en tu navegador predeterminado.
+2. **Navegar en la Aplicación**:
+   - Ve a la URL local configurada (por ejemplo, http://localhost:5191) para acceder a la aplicación.
+   - Usa las opciones de filtrado para ver los clientes y abre el modal para agregar ventas.
+   - Verifica que todas las funcionalidades de la aplicación estén trabajando correctamente.
+
+### Notas Finales
+
+- **Verificación**: Asegúrate de que todas las funcionalidades estén trabajando correctamente y que no haya errores en la consola de desarrollador del navegador.
+- **Actualizaciones**: Mantén tu repositorio actualizado con cualquier cambio o corrección que realices en el proyecto.
