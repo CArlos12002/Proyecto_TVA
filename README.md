@@ -29,7 +29,8 @@ El proyecto consiste en una aplicación que permite gestionar y visualizar las c
 ## Lenguajes de programación
 
 - **HTML**
-- **CS**
+- **C#**
+- **C++**
 - **JavaScript**
 
 ## Instalación y Ejecución
