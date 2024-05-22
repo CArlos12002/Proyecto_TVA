@@ -1,7 +1,0 @@
-C:\Users\carlo\OneDrive\Escritorio\TVA_CAR\TVA_CAR\obj\Debug\net8.0\TVA_CAR.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\carlo\OneDrive\Escritorio\TVA_CAR\TVA_CAR\obj\Debug\net8.0\TVA_CAR.AssemblyInfoInputs.cache
-C:\Users\carlo\OneDrive\Escritorio\TVA_CAR\TVA_CAR\obj\Debug\net8.0\TVA_CAR.AssemblyInfo.cs
-C:\Users\carlo\OneDrive\Escritorio\TVA_CAR\TVA_CAR\obj\Debug\net8.0\TVA_CAR.csproj.CoreCompileInputs.cache
-C:\Users\carlo\OneDrive\Escritorio\TVA_CAR\TVA_CAR\obj\Debug\net8.0\TVA_CAR.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\carlo\OneDrive\Escritorio\TVA_CAR\TVA_CAR\obj\Debug\net8.0\TVA_CAR.RazorAssemblyInfo.cache
-C:\Users\carlo\OneDrive\Escritorio\TVA_CAR\TVA_CAR\obj\Debug\net8.0\TVA_CAR.RazorAssemblyInfo.cs
